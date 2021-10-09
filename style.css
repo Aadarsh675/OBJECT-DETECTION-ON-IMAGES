@@ -1,0 +1,31 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects, #home_button
+{
+font-size: 18px;
+}
+canvas 
+{
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+}
+.button
+{
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: white;
+    width: 250px;
+    box-shadow: 5px 5px 5px black;
+}
